@@ -1,7 +1,8 @@
+### 🚀 Fork This Repo
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=459BF7FF&center=true&vCenter=true&width=1000&height=200&lines=NOVA-MD;NEW+VERSION+2025;BY+DEV+JON-SNOW" alt="Typing SVG" />
+  <a href="https://github.com/jon-snow-tech-bot/NOVA-MD/fork">
+    <img src="https://img.shields.io/badge/Fork%20This-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
