@@ -197,11 +197,11 @@ The developer is not responsible for any misuse or bans.
  Credits & Contributors
 
 > <a href="https://github.com/jon-snow-tech-bot">
-  <img alt="JON-SNOW- OWNER" src="https://img.shields.io/badge/OWNER-âš¡DEV%20JON-SNOWâš¡-FF0000?style=for-the-badge&logo=github" />
+  <img alt="jon-snow-tech-bot- OWNER" src="https://img.shields.io/badge/OWNER-âš¡DEV%20JON-SNOWâš¡-FF0000?style=for-the-badge&logo=github" />
 </a>  
 
 > <a href="https://github.com/jon-snow-tech-bot">
-  <img alt="JON-SNOW- HELPER" src="https://img.shields.io/badge/HELPER-âš¡DEV%20JON-SNOWâš¡-00FFC6?style=for-the-badge&logo=github" />
+  <img alt="jon-snow-tech-bot- HELPER" src="https://img.shields.io/badge/HELPER-âš¡DEV%20JON-SNOWâš¡-00FFC6?style=for-the-badge&logo=github" />
 </a>
 
 <p><b>For helping in bot plugin files.</b></p>
